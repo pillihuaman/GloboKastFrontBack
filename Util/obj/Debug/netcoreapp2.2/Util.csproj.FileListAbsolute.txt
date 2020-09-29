@@ -1,0 +1,9 @@
+C:\Users\zarmirph\source\repos\Util\bin\Debug\netcoreapp2.2\Util.deps.json
+C:\Users\zarmirph\source\repos\Util\bin\Debug\netcoreapp2.2\Util.dll
+C:\Users\zarmirph\source\repos\Util\bin\Debug\netcoreapp2.2\Util.pdb
+C:\Users\zarmirph\source\repos\Util\obj\Debug\netcoreapp2.2\Util.csprojAssemblyReference.cache
+C:\Users\zarmirph\source\repos\Util\obj\Debug\netcoreapp2.2\Util.csproj.CoreCompileInputs.cache
+C:\Users\zarmirph\source\repos\Util\obj\Debug\netcoreapp2.2\Util.AssemblyInfoInputs.cache
+C:\Users\zarmirph\source\repos\Util\obj\Debug\netcoreapp2.2\Util.AssemblyInfo.cs
+C:\Users\zarmirph\source\repos\Util\obj\Debug\netcoreapp2.2\Util.dll
+C:\Users\zarmirph\source\repos\Util\obj\Debug\netcoreapp2.2\Util.pdb
